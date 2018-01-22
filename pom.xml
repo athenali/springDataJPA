@@ -5,6 +5,7 @@
 	<artifactId>jpasample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
+
 	<properties>
 		<aspectj.version>1.6.12.M2</aspectj.version>
 		<java.version>1.6</java.version>
